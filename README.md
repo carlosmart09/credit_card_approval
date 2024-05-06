@@ -73,7 +73,7 @@ After evaluating different machine learning models on our credit card approval d
   * Initially, KNN achieved an accuracy of *86%**.
   * However, by fine-tuning the hyperparameter (number of neighbors), we improved the accuracy to **87%**.
     
-!confusion_matrix.png
+![confusion_matrix](confusion_matrix.png)
 
 ## Contributing
 Feel free to contribute by opening issues or submitting pull requests. Let's make this project better together!
