@@ -70,7 +70,7 @@ Our credit card approval dataset was obtained from the **UCI Machine Learning Re
 
 After evaluating different machine learning models on our credit card approval dataset, we observed the following results:
 * **K-Nearest Neighbors (KNN)**:
-  * Initially, KNN achieved an accuracy of *86%**.
+  * Initially, KNN achieved an accuracy of **86%**.
   * However, by fine-tuning the hyperparameter (number of neighbors), we improved the accuracy to **87%**.
     
 ![confusion_matrix](confusion_matrix.png)
